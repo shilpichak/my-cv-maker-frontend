@@ -4,7 +4,7 @@ import React from 'react';
 function About() {
   return (
     <div>
-      About
+      About 1
     </div>
   );
 }
