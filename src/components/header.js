@@ -34,8 +34,8 @@ function Header() {
           <input className="form-control" type="text" placeholder="Search" aria-label="Search"/>
         </form>*/}
 		<div class="text-end">
-          <button type="button" class="btn btn-outline-light me-2">Login</button>
-          <button type="button" class="btn btn-warning">Sign-up</button>
+          <button type="button" className="btn btn-outline-light me-2">Login</button>
+          <button type="button" className="btn btn-warning">Sign-up</button>
         </div>
       </div>
     </div>
