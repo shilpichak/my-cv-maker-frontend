@@ -2,17 +2,17 @@
 
 /* make the customizations */
 
-/*$theme-colors: (
+$theme-colors: (
 	"primary": lightgreen,
 	"secondary": green,
 	"success": lightblue,
-	"warning": yellow,
+	"warning": purple,
 	"danger": red,
 	"light": orange,
 	"link": pink,
     "info": blue,
 	"dark": red,
-);*/
+);
 
 /* import bootstrap to set changes */
 @import "~bootstrap/scss/bootstrap";
